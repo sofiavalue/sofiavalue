@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SofiaAg
-- 👀 I’m interested in Web2.0 & Web3.0 dev 
+- 👀 I’m interested in Web2.0 & Web3.0 dev , and AI (Machine Learning).
 - 🌱 I’m currently learning Solidity, React Js and web 3.js  
 - 💞️ I’m looking to collaborate on Blockchain dev and full stack dev on Web 2 as well as web design
 - 📫 How to reach me via my Twitter:  @SophiaLucas5
